@@ -16,7 +16,7 @@
     </TitleClip>
     <TitleClip extentID="6" gapBefore="0" duration="3">
       <Effects>
-        <TextEffect effectTemplateID="TextEffectCinematicTitleTemplate" TextScriptId="11">
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
           <BoundProperties>
             <BoundPropertyBool Name="automatic" Value="false" />
             <BoundPropertyFloatSet Name="color">
