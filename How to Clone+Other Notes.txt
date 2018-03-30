@@ -1,0 +1,14 @@
+How to clone:
+1. git clone "cloneaddress"
+2. 
+
+
+git clone https://github.com/MasaSans/School-7th-Grade.git
+cd School-7th-Grade
+git status
+git add .
+git status
+git commit -m "I created BOMB pres and the title+credit slides"
+git status
+git push
+git pull
