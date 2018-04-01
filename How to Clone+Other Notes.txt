@@ -1,3 +1,6 @@
+How to first Config Name and Email:
+1. git config --global user.name "Sanjit Masanam"
+2. git config --global user.email "lithiumisdabest@gmail.com"
 How to clone:
 1. git clone "cloneaddress"
 2. 
